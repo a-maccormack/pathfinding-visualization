@@ -8,12 +8,12 @@ Setup                                                                           
 ### [ENG]: ###
 [A* Algorithm Pathfiniding Visualization](https://en.wikipedia.org/wiki/A*_search_algorithm "A* Algorithm Pathfiniding Visualization"). Part of the [TechWithTim](http://www.techwithtim.net/ "TechWithTim") course. All credit due goes to him. 
 
-Visualization made with the pygame module.
+Visualization made with the [Pygame](https://www.pygame.org/ "Pygame") module.
 
 ### [ESP]: ###
 [Visualización Algoritmo de Busqueda A*](https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A* "Visualización Algoritmo de Busqueda A*"). Parte del curso de [TechWithTim](http://www.techwithtim.net/ "TechWithTim"). Todo el credito debido le pertenece. 
 
-Visualización hecha con el modulo Pygame.
+Visualización hecha con el modulo [Pygame](https://www.pygame.org/ "Pygame").
 
 ## Instructions / Instrucciones ##
 ### QuickStart: ###
