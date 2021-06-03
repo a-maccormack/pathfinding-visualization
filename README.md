@@ -1,0 +1,32 @@
+# PathfindingVisualization #
+Setup         | PathFinding
+------------- | ------------------
+              | 
+
+
+
+### [ENG]: ###
+[A* Algorithm Pathfiniding Visualization](https://en.wikipedia.org/wiki/A*_search_algorithm "A* Algorithm Pathfiniding Visualization"). Part of the [TechWithTim](http://www.techwithtim.net/ "TechWithTim") course. All credit due goes to him. 
+
+Visualization made with the pygame module.
+
+### [ESP]: ###
+[Visualización Algoritmo de Busqueda A*](https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A* "Visualización Algoritmo de Busqueda A*"). Parte del curso de [TechWithTim](http://www.techwithtim.net/ "TechWithTim"). Todo el credito debido le pertenece. 
+
+Visualización hecha con el modulo Pygame.
+
+## Instructions / Instrucciones ##
+### QuickStart: ###
+Key / Tecla   | Function / Función
+------------- | ------------------
+LeftClick     | Set Points in grid
+RightClick    | Clear Individual Cells
+SPACE         | Start search between points
+C             | Clear the screen
+
+
+### [ENG]: ###
+Mark an origin and a destination in the program grid using left mouse click. Orange represents the origin. Teal represents the destination. Once both points are set, draw barriers between both points. Press spacebar to begin the shortest path search between both points. Your can clear individual cells using right mouse click.If you wish to clear the screen completely, press C.
+
+### [ESP]: ###
+Usando click izquierdo, Marca un punto de origen y uno de destino en los cuadros del programa. El cuadro naranjo representa el origen. El turquesa representa el destino. Una vez que ambos puntos estén marcados, dibuja barreras entre ambos puntos. Para empezar la busqueda del camino más corto entre ambos puntos, apreta espacio. Puedes borrar cuadros individualmente al apretar click derecho. Si deseas borrar todo lo dibujado en la pantalla, apreta C.
