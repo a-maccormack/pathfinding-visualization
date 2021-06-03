@@ -1,7 +1,7 @@
 # PathfindingVisualization #
-Setup         | PathFinding
-------------- | ------------------
-              | 
+Setup                                                                                                                                         | PathFinding
+----------------------------------------------------------------------------------------------------------------------------------------------| ------------------
+![Screenshot from 2021-06-03 12-08-21](https://user-images.githubusercontent.com/78695941/120677633-49925580-c465-11eb-97db-f5f39b4d081e.png) | ![Screenshot from 2021-06-03 12-11-52](https://user-images.githubusercontent.com/78695941/120677637-4a2aec00-c465-11eb-81b0-545c185710a4.png) 
 
 
 
@@ -30,3 +30,6 @@ Mark an origin and a destination in the program grid using left mouse click. Ora
 
 ### [ESP]: ###
 Usando click izquierdo, Marca un punto de origen y uno de destino en los cuadros del programa. El cuadro naranjo representa el origen. El turquesa representa el destino. Una vez que ambos puntos estén marcados, dibuja barreras entre ambos puntos. Para empezar la busqueda del camino más corto entre ambos puntos, apreta espacio. Puedes borrar cuadros individualmente al apretar click derecho. Si deseas borrar todo lo dibujado en la pantalla, apreta C.
+
+## Project Date: ##
+July 18th, 2020
